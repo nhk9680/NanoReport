@@ -1,0 +1,2 @@
+# NanoReport
+Daily log
