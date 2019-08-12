@@ -1,0 +1,30 @@
+Using GPU: 0
+Constructing ResNet model...
+Dilations: (2, 4)
+Number of classes: 1
+Number of Input Channels: 4
+Initializing classifier: PSP
+Skipping Conv layer with size: torch.Size([512, 2048, 1, 1]) and target size: torch.Size([1, 2048, 3, 3])
+Initializing from pretrained Deeplab-v2 model
+Files already downloaded and verified
+Number of images: 1464
+Number of objects: 3507
+Files already downloaded and verified
+Number of images: 1449
+Number of objects: 3427
+Training Network
+/home/nhkim/anaconda3/envs/dextr/lib/python3.6/site-packages/torch/nn/functional.py:1890: UserWarning: nn.functional.upsample is deprecated. Use nn.functional.interpolate instead.
+  warnings.warn("nn.functional.upsample is deprecated. Use nn.functional.interpolate instead.")
+[Epoch: 0, numImages:  3507]
+Loss: 17824.621408
+Execution time: 458.5769863950554
+
+[Epoch: 1, numImages:  3507]
+Loss: 10759.487299
+Execution time: 457.62855059909634
+
+Files already downloaded and verified
+Number of images: 1449
+Number of objects: 3427
+Testing Network
+The program finished and will be restarted
