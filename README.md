@@ -4,4 +4,4 @@ Daily log
 
 > 넌 도대체 오늘 하루종일 뭘 한거니?
 
-## [모아보기(통합본)](https://github.com/nhk9680/NanoReport/Summary.md)
+## [모아보기(통합본)](https://github.com/nhk9680/NanoReport/blob/master/Summary.md)
